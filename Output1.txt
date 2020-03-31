@@ -1,0 +1,7 @@
+Output for k between 1 and 9 (The other arguments are: frames=2048, q=10 and max=50000) is : 
+
+Total Disk Reads are: 13
+Total Disk Writes are: 1
+Total Page Faults are: 215
+Max number of traces examined by each file: 50000
+Total Covered Frames are: 201
